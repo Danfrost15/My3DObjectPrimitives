@@ -1,0 +1,12 @@
+Question 1: What Challenges did you face when combining Primitives to create complex Objects?
+
+Answer: My main challenge was deciding the objects to create so ithought of something simple like a lamp
+ I still ran into a few challenges. Positioning was tricky—objects didn’t always align perfectly, and getting things to look smooth took patience. Rotation could also be a bit of a pain, especially with spheres and cylinders, since their pivot points weren’t always where I expected.
+
+Question 2: How did using materials enhance the appearance of your models
+
+Answer: Using materials made a huge difference in making my models look more realistic and visually interesting. At first, everything looked flat and plain, just basic shapes with no detail. But once I started applying materials, even simple objects looked way better.
+
+Question 3: what would you improve or add to your scene if given more time?
+
+Answer: If I had more time, I’d fix some of the rough spots, like aligning objects better and tweaking the materials to look more realistic. I’d also improve the lighting so the scene doesn’t feel so flat—maybe add a skybox to make it look less empty. If I could, I’d refine some shapes to make them smoother and more natural. Right now, it looks okay, but with more time, I’d make it feel more finished.
